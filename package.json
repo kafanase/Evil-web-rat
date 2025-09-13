@@ -1,5 +1,5 @@
 {
-  "name": "roblox-control-server",
+  "name": "evil-web-rat",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,6 +8,7 @@
   "dependencies": {
     "ws": "^8.14.2",
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "node-fetch": "^2.6.7"
   }
 }
